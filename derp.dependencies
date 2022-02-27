@@ -1,0 +1,22 @@
+[
+  {
+    "repository" : "device_mediatek_sepolicy",
+    "target_path": "device/mediatek/sepolicy",
+    "branch"     : "12"
+  },
+  {
+    "repository" : "kernel_xiaomi_mt6785",
+    "target_path": "kernel/xiaomi/mt6785",
+    "branch"     : "12"
+  },
+  {
+    "repository" : "vendor_xiaomi_begonia",
+    "target_path": "vendor/xiaomi/begonia",
+    "branch"     : "12"
+  },
+  {
+    "repository" : "vendor_xiaomi_begonia-ims",
+    "target_path": "vendor/xiaomi/begonia-ims",
+    "branch"     : "12"
+  }
+]
