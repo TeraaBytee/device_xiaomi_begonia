@@ -14,6 +14,7 @@ $(call inherit-product, device/xiaomi/begonia/device.mk)
 
 # Inherit from our custom product configuration
 $(call inherit-product, vendor/derp/config/common_full_phone.mk)
+TARGET_SUPPORTS_QUICK_TAP := true
 DERP_BUILDTYPE := Official
 
 # Screen density
