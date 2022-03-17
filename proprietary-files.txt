@@ -1837,6 +1837,7 @@ vendor/bin/gsm0710muxd
 vendor/bin/netdagent
 vendor/bin/netdc
 vendor/bin/xcap
+vendor/bin/hw/vendor.mediatek.hardware.mms@1.5-service
 vendor/etc/init/em_hidl_user.rc
 vendor/etc/init/gsm0710muxd.rc
 vendor/etc/init/init.cccifsd.rc
@@ -1848,6 +1849,7 @@ vendor/etc/init/init_connectivity.rc
 vendor/etc/init/mtkrild.rc
 vendor/etc/init/netdagent.rc
 vendor/etc/init/networksetting.rc
+vendor/etc/init/vendor.mediatek.hardware.mms@1.5-service.rc
 vendor/lib/libcapctrl.so
 vendor/lib/libcares_naptr.so
 vendor/lib/libcarrierconfig.so
@@ -1875,6 +1877,7 @@ vendor/lib/vendor.mediatek.hardware.mms@1.3.so
 vendor/lib/vendor.mediatek.hardware.mms@1.4.so
 vendor/lib/vendor.mediatek.hardware.mms@1.5.so
 vendor/lib/vendor.mediatek.hardware.netdagent@1.0.so
+vendor/lib/hw/vendor.mediatek.hardware.mms@1.5-impl.so
 vendor/lib64/libcapctrl.so
 vendor/lib64/libcares_naptr.so
 vendor/lib64/libcarrierconfig.so
@@ -1913,6 +1916,7 @@ vendor/lib64/vendor.mediatek.hardware.mms@1.4.so
 vendor/lib64/vendor.mediatek.hardware.mms@1.5.so
 vendor/lib64/vendor.mediatek.hardware.mtkradioex@2.0.so
 vendor/lib64/vendor.mediatek.hardware.netdagent@1.0.so
+vendor/lib64/hw/vendor.mediatek.hardware.mms@1.5-impl.so
 
 # Radio (Configs)
 vendor/etc/apdb/APDB_MT6785_S01__W2041
